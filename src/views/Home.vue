@@ -1,6 +1,6 @@
 <template>
 <h1 align="center"> Program Absensi Mahasiswa </h1>
-<img src="../assets/logo-cic.jpg">
+<img src="../assets/ucic.jpg">
 </template>
 
 <script>
